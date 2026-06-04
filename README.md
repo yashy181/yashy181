@@ -5,10 +5,8 @@ Passionate about software development, problem solving, and learning new technol
 Currently focused on Full Stack Web Development, Data Structures & Algorithms, and AI-based projects.
 
 ### Skills
-- C, C++, Python, Java
+- C, C++, Python,
 - HTML, CSS, JavaScript
-- Full Stack Web Development
-- DBMS & SQL
 
 ### Projects
 - Personalized Diet Recommendation System
